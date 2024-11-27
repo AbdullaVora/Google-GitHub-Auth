@@ -1,3 +1,3 @@
 Live Link Website
 
-https://google-github-auth.onrender.com
+https://google-git-hub-auth.vercel.app
